@@ -1,2 +1,2 @@
 # dijkstra
-Dijkstra Algorithmus als Projekt für die EPSHLDE
+Dijkstra Algorithmus als Projekt für die EPSHL
